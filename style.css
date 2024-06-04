@@ -177,8 +177,11 @@ hr {
   body {
     background-color: var(--Eggshell);
     padding: 100px;
+    max-width: 70%;
+    margin: 0 auto;
   }
-  header, main {
+  header,
+  main {
     margin: 0 auto;
     background-color: var(--White);
   }
